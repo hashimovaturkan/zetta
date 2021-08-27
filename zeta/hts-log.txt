@@ -1,0 +1,15 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 27 Aug 2021 19:12:32 at https://preview.colorlib.com/theme/zeta/blog.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://preview.colorlib.com/theme/zeta/blog.html -O1 "C:\Users\HP\Desktop\zeta" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+19:13:28	Warning: 	Warning: store application/octet-stream without scan: C:/Users/HP/Desktop/zeta/preview.colorlib.com/theme/zeta/plugins/fontawesome-free-5.0.1/webfonts/fa-brands-400.svg
+19:13:28	Warning: 	Warning: store application/octet-stream without scan: C:/Users/HP/Desktop/zeta/preview.colorlib.com/theme/zeta/plugins/fontawesome-free-5.0.1/webfonts/fa-regular-400.svg
+19:13:28	Warning: 	Warning: store application/octet-stream without scan: C:/Users/HP/Desktop/zeta/preview.colorlib.com/theme/zeta/plugins/fontawesome-free-5.0.1/webfonts/fa-solid-900.svg
+19:13:28	Error: 	"Not Found" (404) at link https://preview.colorlib.com/theme/zeta/plugins/parallax.js-1.5.0/parallax.min.js (from https://preview.colorlib.com/theme/zeta/services.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 57 seconds : 150 links scanned, 148 files written (6464532 bytes overall) [4277506 bytes received at 75043 bytes/sec], 3381239 bytes transferred using HTTP compression in 64 files, ratio 31%, 37.5 requests per connection
+(1 errors, 3 warnings, 0 messages)
